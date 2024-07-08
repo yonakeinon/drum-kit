@@ -1,6 +1,4 @@
-// document.querySelector("button").addEventListener("click",function () {
-//     alert("i whas clicked!!");
-// });
+
 
 let getLetter = (letter) =>{
     switch (letter) {
@@ -65,13 +63,7 @@ document.addEventListener("keypress", (event)=>{
     curentKey(event.key);
 })
 
-// for(let i = 0;i<numberOfDroms;i++){
-//     document.querySelectorAll(".drum")[i].addEventListener("click", ()=>{
-//         const audio = new Audio(`sounds/tom-1.mp3`);
-//         audio.play();
 
-//     })
-// }
 
 
 
